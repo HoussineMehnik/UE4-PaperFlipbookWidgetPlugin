@@ -1,0 +1,8 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"PaperFlipbookWidget": "UE4Editor-PaperFlipbookWidget.dll",
+		"PaperFlipbookWidgetEditor": "UE4Editor-PaperFlipbookWidgetEditor.dll"
+	}
+}
