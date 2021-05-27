@@ -12,8 +12,6 @@
 	"SupportURL": "https://twitter.com/HoussineMehnik",
 	"EngineVersion": "4.26.0",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
-	"IsExperimentalVersion": false,
 	"Installed": true,
 	"Modules": [
 		{
