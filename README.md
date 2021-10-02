@@ -1,4 +1,5 @@
-# To Download Examples project or Compiled plugin version : https://unrealengineresources.com/plugins
+# To Download Examples project or Compiled plugin version
+Visit https://unrealengineresources.com/plugins
 
 
 # Paper Flipbook Widget
