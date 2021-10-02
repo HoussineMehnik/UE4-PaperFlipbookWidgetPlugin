@@ -1,6 +1,5 @@
 # To Download Examples project or Compiled plugin version : https://unrealengineresources.com/plugins
 
-Twitter : https://twitter.com/HoussineMehnik
 
 # Paper Flipbook Widget
 
