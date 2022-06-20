@@ -8,7 +8,7 @@ public class PaperFlipbookWidgetEditor : ModuleRules
 {
 	public PaperFlipbookWidgetEditor(ReadOnlyTargetRules Target) : base(Target)
 	{
-		/*PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;*/   PCHUsage = ModuleRules.PCHUsageMode.NoPCHs; bUseUnity = false;
+		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;   /*PCHUsage = ModuleRules.PCHUsageMode.NoPCHs; bUseUnity = false;*/
 
 		PrivateIncludePaths.Add("PaperFlipbookWidgetEditor/Private");
 
@@ -29,6 +29,7 @@ public class PaperFlipbookWidgetEditor : ModuleRules
                 "Slate",
                 "SlateCore",
                 "Projects",
+				"EditorFramework",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
