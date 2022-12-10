@@ -7,7 +7,6 @@
 #include "Styling/SlateStyleRegistry.h"
 #include "SlateOptMacros.h"	
 #include "Styling/SlateTypes.h"
-#include "EditorStyleSet.h"
 #include "Styling/SlateStyle.h"
 
 
@@ -27,7 +26,7 @@ TSharedPtr< FSlateStyleSet > FPaperFlipbookWidgetEditorStyle::StyleSet = NULL;
 TSharedPtr< class ISlateStyle > FPaperFlipbookWidgetEditorStyle::Get() { return StyleSet; }
 
 
-FName FPaperFlipbookWidgetEditorStyle::GetStyleSetName()
+FName FPaperFlipbookWidgetEditorStyle::GetAppStyleSetName()
 {
 	return StyleSet->GetStyleSetName();
 }
